@@ -9,15 +9,15 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
-app.get('/ui/atrical-one.html', function (req, res) {
+app.get('/atrical-one.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'atrical-one.html'));
 });
 
-app.get('/ui/atrical-two.html', function (req, res) {
+app.get('/atrical-two.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'atrical-two.html'));
 });
 
-app.get('/ui/atrical-three.html', function (req, res) {
+app.get('/atrical-three.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'atrical-three.html'));
 });
 
