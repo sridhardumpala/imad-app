@@ -27,8 +27,9 @@ body {
 }
 
 .vertical-menu {
-    background-color: black;
+    background-color: cyan;
     color:white;
     text-align: right;
     padding-right:10px;
+    margin: 20px
 }
