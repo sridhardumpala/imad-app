@@ -25,3 +25,10 @@ body {
     margin:0 auto;
     padding:40px;
 }
+
+.vertical-menu {
+    background-color: black;
+    color:white;
+    text-align: left;
+    padding-left:10px;
+}
